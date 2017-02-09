@@ -10,3 +10,6 @@ git push -u origin master
 
 git remote add origin https://github.com/bitrix1/react.git
 git push -u origin master
+
+bitbucket/master
+origin/master

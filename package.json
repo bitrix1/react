@@ -46,6 +46,6 @@
     "redux-thunk": "^2.2.0",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
-    "webpack-dev-server": "^2.11.4"
+    "webpack-dev-server": "^3.11.0"
   }
 }
